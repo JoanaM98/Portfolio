@@ -1039,7 +1039,7 @@ footer .social-icon:hover {
   }
 
   #soft-skills .skill {
-    padding: 15px;
+    padding: 20px;
   }
 
 
@@ -1353,13 +1353,16 @@ footer .social-icon:hover {
     width: 40px;
   }
 
+ 
   #soft-skills .skill-title {
-    font-size: 16px;
-  }
-
-  #soft-skills .skill-description {
     font-size: 15px;
   }
+
+
+  #soft-skills .skill-description {
+    font-size: 14px;
+  }
+
 
   /* Project Gallery */
   .gallery-container {
