@@ -352,7 +352,7 @@ h1 {
   flex-direction: column;
   justify-content: center;
   border: #829CB0 solid 1.8px;
-  box-shadow: #829CB0 2px 2px 10px;
+  box-shadow:#233144 2px 2px 10px;
   background-color: #fcfcfc;
 }
 
@@ -1038,9 +1038,6 @@ footer .social-icon:hover {
     padding: 25px 0;
   }
 
-  #soft-skills .skill {
-    padding: 20px;
-  }
 
 
 
@@ -1219,7 +1216,7 @@ footer .social-icon:hover {
   }
 
   #soft-skills-container .skill {
-    padding: 7px 15px;
+    padding: 7px 20px;
   }
 
 
