@@ -6,7 +6,7 @@ html {
   font-family: "Mulish", sans-serif;
   background-image: url("./assets/bg.png");
   background-repeat: no-repeat;
-  background-position: left center;
+  background-position: left top;
   background-attachment: fixed;
   background-size: cover;
 }
