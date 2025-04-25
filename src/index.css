@@ -505,6 +505,7 @@ p.reach-out {
   border: #ebeaea solid 1px;
   box-shadow: #233144 1px 1px 30px;
   border-radius: 25px;
+  overflow: hidden;
 }
 
 .card:hover {
